@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators**
 
-- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... One Piece <img src="https://i.dlpng.com/static/png/5349639-one-piece-unlimited-world-red-monkey-d-luffy-logo-piracy-luffy-one-piece-logo-png-900_520_preview.png" width="22"/>**
+- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... One Piece <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Strawhat_crew_jolly_roger.svg" width="22"/>**
 
 <br />
 
