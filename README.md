@@ -6,13 +6,13 @@
 ![GitHub followers](https://img.shields.io/github/followers/minhnq0702?logo=GitHub&style=for-the-badge)
 -->
 
-- 🔭 I’m currently working on [Init, Ltd](https://init.vn)
+- 🔭 I’m currently working at [Init, Ltd](https://init.vn)
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate with **other content creators**
+- 👯 I’m looking to collaborate with **other Business Analysis**
 
-- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... One Piece <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Strawhat_crew_jolly_roger.svg" width="22"/>**
+- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... Coding <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Strawhat_crew_jolly_roger.svg" width="22"/>**
 
 <br />
 
