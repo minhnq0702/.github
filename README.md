@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Minh Nguyen</h1>
-<h3 align="center">A crazy programer ☠️☠️😜</h3>
+<h3 align="center">A lazy programer ☠️☠️😜</h3>
 
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/minhnq0702?logo=GitHub&style=for-the-badge)
