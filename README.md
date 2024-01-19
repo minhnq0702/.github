@@ -6,7 +6,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/minhnq0702?logo=GitHub&style=for-the-badge)
 -->
 
-- 🔭 I’m currently working at [Init, Ltd](https://init.vn)
+- 🔭 I’m currently working at.... actually, I dont say...kkk
 
 - 🌱 I’m currently learning **Flutter**
 
