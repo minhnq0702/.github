@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate with **other Business Analysis and Odoo Developer**
 
-- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... Coding <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Strawhat_crew_jolly_roger.svg" width="22"/>**
+- ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... Coding**
 
 <br />
 
