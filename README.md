@@ -68,10 +68,10 @@
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
 	<code><img width="25" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 </div>
+<br/>
+<span><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnq0702&layout=compact&hide=html" alt="minhnq0702" /></span>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnq0702&layout=compact&hide=html" alt="minhnq0702" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnq0702&show_icons=true" alt="minhnq0702" /></p>
+<span>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=minhnq0702&show_icons=true" alt="minhnq0702" /></span>
 
 <!--
 **minhnq0702/minhnq0702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
