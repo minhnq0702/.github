@@ -10,7 +10,7 @@
 
 - 🔭 I’m a FullStack Engineer from Ho Chi Minh, Vietnam 🇻🇳
 
-- 🚀 2024, I focus on **Nodejs** / **Nestjs** / **CloudFlare Worker**
+- 🚀 2024, I focus on **Nodejs** - **Nestjs** / **CloudFlare Worker**
 
 - ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... Coding**
 
