@@ -2,7 +2,6 @@
 
 <h1 align="left">Hi 👋, Ming ne (Minh Nguyen)</h1>
 <h3 align="left">A lazy programer ☠️☠️😜</h3>
-<h4 align="left">2024 Updated.....</h4>
 
 <!--
 ![GitHub followers](https://img.shields.io/github/followers/minhnq0702?logo=GitHub&style=for-the-badge)
