@@ -9,11 +9,11 @@
 
 - 🔭 I’m a FullStack Engineer from Ho Chi Minh, Vietnam 🇻🇳
 
-- 🚀 2024, I focus on **Nodejs** - **Nestjs** / **CloudFlare Worker**
+- 🚀 2025, I focus on **Golang** - **Nestjs** - **ReactJS** / **CloudFlare Worker**
 
 - ⚡ Fun fact **I love to play Badminton and Beer🍻, and, of course... Coding**
 
-- 📫 How to reach me: https://my.mingne.dev
+- 📫 How to reach me: https://resume.mingne.dev
 
 
 
